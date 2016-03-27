@@ -1,5 +1,5 @@
 #Institute Security Management
-This project is developed as Semester project under the course Software Engineering (CS223) in Semester II, AY 2015-16 under the mentorship of #Dr. Divya Sharma.
+This project is developed as Semester project under the course Software Engineering (CS223) in Semester II, AY 2015-16 under the mentorship of Ms. Divya Sharma.
 The project is developed in C++. 
 To run the software:  
 
