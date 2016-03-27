@@ -8,10 +8,10 @@ To run the software:
 3. It is a menu driven application
 
 ## Contributors
-Snehal Azad  
-Siddharth Badugu  
-K Vinay Kumar  
-Hari Hara Reddy  
-Sandeep Charan  
+G Raj Kumar
+K Tejas Reddy
+Karthik Katragadda
+Sravan Garimella
+
 
 
