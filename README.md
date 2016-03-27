@@ -9,7 +9,7 @@ To run the software:
     It is a menu driven application.
     
 
-Contributors
+## Contributors
 
 Karthik Katragadda
 K Tejas Reddy
