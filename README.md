@@ -8,10 +8,10 @@ To run the software:
 3. It is a menu driven application
 
 ## Contributors
-#G Raj Kumar
-#K Tejas Reddy
-#Karthik Katragadda
-#Sravan Garimella
+###G Raj Kumar
+###K Tejas Reddy
+###Karthik Katragadda
+###Sravan Garimella
 
 
 
